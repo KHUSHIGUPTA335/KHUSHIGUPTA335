@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Web Development Projects
 - 💙 I love Designing and Developing
-- 🌱 I’m currently learning Competitive Programming
+- 🎡 I aim for Perfection and settle for Excellance
 - 👯 I’m looking to collaborate on Projects 
 - 💬 Ask me about Nature🌻  
 - 📫 How to reach me: Message me on Linkedin
