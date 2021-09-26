@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/khushig21096161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khushig21096161" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khushi-gupta-29243b1b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Khushi Gupta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/khushi-gupta-29243b1b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushi-gupta-29243b1b9/" height="30" width="40" /></a>
 <a href="https://instagram.com/khushigupta7898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khushigupta7898" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/khushigupta_hts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khushigupta_hts" height="30" width="40" /></a>
 </p>
